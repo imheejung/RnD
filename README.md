@@ -9,6 +9,14 @@ To identify the factors that influence the efficiency of national R&D investment
 python==3.7
 ```
 
+### Data
+
+We collected a dataset of government-funded R&D projects from the National Science and Technology Information Service (NTIS) between 2016 and 2019.
+
+```
+raw_data.csv
+```
+
 ### Experiment
 
 The factorial Kruskal-Wallis tests and Dunn's tests.
