@@ -12,6 +12,7 @@ python==3.7
 ### Data
 
 We collected a dataset of government-funded R&D projects from the National Science and Technology Information Service (NTIS) between 2016 and 2019.
+www.ntis.go.kr
 
 ```
 raw_data.csv
